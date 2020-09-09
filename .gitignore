@@ -1,8 +1,3 @@
-#QA gitignore
-e.txt
-
-f.txt
-
-g.txt
+#Dev gitignore
 
 h.txt
