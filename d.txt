@@ -1,0 +1,5 @@
+This is a d.txt file.
+We have ( dev QA UAT prod )  as environments as branches
+
+This is just for dev and QA.
+You wont see this in UAT,Prod
