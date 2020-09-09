@@ -1,5 +1,0 @@
-This is a f.txt file.
-We have ( dev QA UAT prod )  as environments as branches
-
-This is just for dev.
-You wont see this in QA,UAT,Prod
